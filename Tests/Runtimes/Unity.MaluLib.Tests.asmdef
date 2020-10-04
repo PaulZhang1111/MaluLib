@@ -1,3 +1,15 @@
-﻿{
-	"name": "Unity.MaluLib.Tests"
+{
+    "name": "Unity.MaluLib.Tests",
+    "references": [
+        "GUID:8628c0fb46f2d467b9abace58b90bac3"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }
