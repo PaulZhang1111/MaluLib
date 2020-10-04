@@ -1,0 +1,20 @@
+{
+  "name": "com.unity.malulib",
+  "version": "1.0.0",
+  "displayName": "MaluLib",
+  "description": "Unity MaluLib \u8aaa\u660e\u8acb\u770bREADME",
+  "unity": "2019.4",
+  "unityRelease": "1f1",
+  "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "author": {
+    "name": "Unity",
+    "email": "unity@example.com",
+    "url": "https://www.unity3d.com"
+  },
+  "hideInEditor": false,
+  "type": "library"
+}
