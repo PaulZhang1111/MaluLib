@@ -1,8 +1,8 @@
 {
   "name": "com.unity.malulib",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "displayName": "MaluLib",
-  "description": "Unity MaluLib \u8aaa\u660e\u8acb\u770bREADME",
+  "description": "Unity MaluLib \u8aaa\u660e\u8acb\u770bREADME\n\u65b0\u589e\u6f14\u7b97\u6cd5",
   "unity": "2019.4",
   "unityRelease": "1f1",
   "keywords": [
